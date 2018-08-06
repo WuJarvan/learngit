@@ -1,1 +1,2 @@
 text add file2.txt
+fuck laoban
